@@ -6,5 +6,6 @@ load: STARTUP
 description: A wrapper for the natural disasters mod
 author: JonTGN
 commands:
-  test:
-    description: test command
+  ndw:
+    description: Gives the player a one-time-use item with a custom material, name, and command.
+    usage: /ndw <material> <custom_name> <command>
